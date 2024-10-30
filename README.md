@@ -4,6 +4,8 @@
 
 This script provides a basic automated CI/CD system that fetches releases from a private GitHub repository based on tag nomenclature. It simplifies the deployment process by automating the download, extraction, and version management of your applications. This system allows users to streamline their deployment workflows, ensuring that they can quickly and efficiently update their applications based on the latest releases.
 
+There's a `.lua` and a `.sh` examples.
+
 ## Features
 
 - **Automated Version Checking**: The script checks for the latest release in the specified GitHub repository based on tag nomenclature.
